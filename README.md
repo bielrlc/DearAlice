@@ -1,7 +1,7 @@
 # DearAlice
 "A project to beat Uber"
 
-Protótipo para praticar minhas técnicasem desenvolvimento Android que, com sorte, irá me trazer oportunidades...
+Protótipo para praticar minhas técnicas em desenvolvimento Android que, com sorte, irá me trazer oportunidades...
 
 "Help me polarize, help me polarize, help me down
 Those stairs
